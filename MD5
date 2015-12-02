@@ -1,0 +1,17 @@
+808ead851ad4642f5bfa1f59c3addb2c *DESCRIPTION
+faf5e01938e392ca5affba3277af95f0 *NAMESPACE
+0afb8f74d4cfd4af1b46f313d6d4c41f *R/radviz.R
+5c1ca637d44362e88a33ba5f486c2779 *R/svdvis-package.R
+40b6528b04897749e77be1a36de754c2 *R/svdvis.R
+3b0436c4ade22d9c10bcbb86174bf166 *build/vignette.rds
+57e656852ef5215e574bf01425823b5b *inst/doc/svdvis-vignette.R
+91ab7441f13d2fb124b3932bd0966862 *inst/doc/svdvis-vignette.Rmd
+8d54ced58ae325cb866dc04795966fa7 *inst/doc/svdvis-vignette.pdf
+c8de605f5e79103be9e17217f851584e *man/radviz.Rd
+d2270bbd610b750f12d6863c3eb80026 *man/svd.heatmap.Rd
+cb49eea230ca70fada81a5220a565a3b *man/svd.parallel.Rd
+4594b72307195577b9cc5baab91b37c3 *man/svd.radial.Rd
+dbca78f79d43e3e0d02a7aef973b33e6 *man/svd.scatter.Rd
+32d72cd91303206606830e88270279aa *man/svd.scree.Rd
+d787a7176fd3c7cfd4509d7c001366cb *man/svdvis-package.Rd
+91ab7441f13d2fb124b3932bd0966862 *vignettes/svdvis-vignette.Rmd
